@@ -1,8 +1,5 @@
 ### Marcel Massao Uema
-Data de nascimento: 28/04/1983
-Email - marcel.uema@gmail.com
-Estado civil: Casado
-São bernardo do Campo - SP
+Data de nascimento: 28/04/1983; Email - marcel.uema@gmail.com; Estado civil: Casado; São bernardo do Campo - SP
 
 ### Formação acadêmica
 
