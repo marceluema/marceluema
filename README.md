@@ -1,5 +1,4 @@
-### Marcel Massao Uema
-Email - marcel.uema@gmail.com
+### Marcel Massao Uema (Email - marcel.uema@gmail.com)
 ### Formação acadêmica
 
 MBA Data Science & Machine Learning - UNIP
