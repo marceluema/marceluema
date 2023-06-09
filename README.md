@@ -1,6 +1,10 @@
 ### Marcel Massao Uema
+### Data de nascimento: 28/04/1983
+### Email - marcel.uema@gmail.com
+### Estado civil: Casado
+### São bernardo do Campo - SP
 
-### FORMAÇÃO ACADÊMICA
+### Formação acadêmica
 
 MBA Data Science & Machine Learning - UNIP
 Data de conclusão – 11/2019
@@ -29,4 +33,4 @@ MERCEDES- BENZ
 Estagiário na área de inteligência de marketing
 10/2004 até 01/2006
 Atribuições do cargo: Atualização de dados econômicos, relatórios de vendas. Elaboração de apresentações em PowerPoint e planilhas de vendas.
-Acompanhamento, revisão e análise dos resultados das pesquisas de mercado.  
+Acompanhamento, revisão e análise dos resultados das pesquisas de mercado.
